@@ -4,3 +4,5 @@
 from previous final-analysis.Rmd commit from over a month ago. 
 >> WARNING: Failed to restore workspace from '~/School Stuff/BS BIO 5th Year/BIO 200/R/final/.RData'
 Reason: bad restore file magic number (file may be corrupted) -- no data loaded
+
+[05/06/2024] Discontinued. Will create new repo.
